@@ -14,4 +14,3 @@ profiles:
   First:
     test_pattern:
       - features/catalog.feature
-
